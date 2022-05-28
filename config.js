@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283808840711','62 83184072215','6283184072215']
-global.premium = ['6283808840711']
-global.packname = '2022'
-global.author = 'KIKI ID'
-global.sessionName = 'kiki'
+global.owner = ['6282143349069','6282143349069','6282143349069']
+global.premium = ['6282143349069']
+global.packname = 'Mafia'
+global.author = 'Black Hosting'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -40,7 +40,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/kiki.jpg')
+global.thumb = fs.readFileSync('./lib/chika.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
