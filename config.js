@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282143349069','6282143349069','6282143349069']
+global.owner = ['6282143349069','62895807009474','6282143349069']
 global.premium = ['6282143349069']
-global.packname = 'Mafia'
+global.packname = 'Rere Bot'
 global.author = 'Black Hosting'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
